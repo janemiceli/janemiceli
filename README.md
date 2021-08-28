@@ -1,5 +1,5 @@
 ### Hello World 👋
-
+Go see my resume [here](https://janemiceli.github.io)
 <!--
 **janemiceli/janemiceli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
