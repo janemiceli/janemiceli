@@ -7,7 +7,7 @@
  ███  █   █ █   █ █████ █   █ █████ █████ █████ █████ █████ 
 ```
 Go see my [resume](https://janemiceli.github.io) or [LinkedIn](https://www.linkedin.com/in/janemiceli)
-<!--
+[<!--
 **janemiceli/janemiceli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -20,4 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->](https://github-readme-stats-janemiceli.vercel.app/api/top-langs/?username=janemiceli&layout=pie&theme=github_dark)
+[[https://github-readme-stats-janemiceli.vercel.app/api/top-langs/?username=janemiceli&layout=pie&theme=github_dark]]
+
+
